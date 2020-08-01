@@ -14,7 +14,6 @@ It is a custom stack class in JavaScript similar to Array stack functionality. I
 
 ## Code
 ```
-
 /**
  * This is an implementation of custom stack class.
  * @author Ramesh Kumar
@@ -84,5 +83,4 @@ console.log(stack.size());
 console.log(stack.peek());
 console.log(stack.size());
 console.log(stack.toString());
-
 ```
