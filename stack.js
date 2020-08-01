@@ -1,3 +1,9 @@
+/**
+ * This is an implementation of custom stack class.
+ * @author Ramesh Kumar
+ *
+ */
+
 class Stack {
     
     /**
